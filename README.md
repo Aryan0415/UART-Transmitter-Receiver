@@ -31,5 +31,10 @@ The design was implemented and hardware validated on the Nexys A7 (Artix-7 100T)
 The UART transmitter and receiver were successfully implemented and tested on FPGA hardware. Serial communication was verified using Tera Term at 9600 baud.
 
 ## Author
+## Simulation Result
+
+The UART design was verified using the Vivado Simulator.
+
+![UART Waveform](images/IMG-20260617-WA0001.jpg)
 
 Aryan Rathi
